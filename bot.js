@@ -178,7 +178,7 @@ client.on('error', e => {
   console.log(chalk.bgRed(e.replace(regToken, 'that was redacted')));
 });
 // Token girilecek yer!
-client.login('NTUxNzE1MTkzOTU3Mzg0MTkz.D11KOA.PeWSRMHDgCZE8_9_Lf0OeKA7OJ8');
+client.login('');
 
 //bot : https://discordapp.com/oauth2/authorize?client_id=551715193957384193&scope=bot&permissions=8
 //botdenemedc : https://discord.gg/drgtK55
